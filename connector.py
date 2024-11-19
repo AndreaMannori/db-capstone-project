@@ -1,0 +1,1 @@
+connection = connector.connect(user = "andrea", password = "andrea")
